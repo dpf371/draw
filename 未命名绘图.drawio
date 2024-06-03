@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T03:24:01.841Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="21.2.9" etag="AWdhD_IHN66OVK9XgXTI" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T03:38:15.903Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="_Dj5NrWARJu1xsMJ7j3Q" version="21.2.9" type="github">
   <diagram name="第 1 页" id="7sHURrLWMdzqhiQ62Z6Y">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="iTJJidZq-1Asm15_TR1x-1" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/CustomDomain.svg;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="50" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="iTJJidZq-1Asm15_TR1x-2" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/CustomDomain.svg;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="364" y="40" width="50" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="iTJJidZq-1Asm15_TR1x-3" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/CustomDomain.svg;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="490" y="40" width="50" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="iTJJidZq-1Asm15_TR1x-4" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/App_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="80" y="36" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iTJJidZq-1Asm15_TR1x-5" value="运行日志" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Search.svg;" vertex="1" parent="1">
+          <mxGeometry x="110" y="370" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iTJJidZq-1Asm15_TR1x-7" value="服务调用链" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Network_watcher.svg;" vertex="1" parent="1">
+          <mxGeometry x="40" y="370" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iTJJidZq-1Asm15_TR1x-8" value="资源占用" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Monitor.svg;" vertex="1" parent="1">
+          <mxGeometry x="40" y="290" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iTJJidZq-1Asm15_TR1x-9" value="job类的微服务" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SchedulerJobCollection.svg;" vertex="1" parent="1">
+          <mxGeometry x="270" y="447" width="50" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="iTJJidZq-1Asm15_TR1x-10" value="云上托管的微服务" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Managed_Applications.svg;" vertex="1" parent="1">
+          <mxGeometry x="380" y="440" width="47" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iTJJidZq-1Asm15_TR1x-11" value="健康检查" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Time_Series_Insights_environments.svg;" vertex="1" parent="1">
+          <mxGeometry x="110" y="290" width="49" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
