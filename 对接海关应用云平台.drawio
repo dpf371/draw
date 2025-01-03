@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="26.0.2">
   <diagram name="第 1 页" id="ejmgJxEMXU4kOlRH_wkN">
-    <mxGraphModel dx="2261" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
         <mxCell id="yd2SGkA0InAKMeZgdyea-6" value="&lt;span&gt;Docker&lt;/span&gt;&lt;div&gt;&lt;span&gt;容器&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="270" y="420" width="217" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yd2SGkA0InAKMeZgdyea-7" value="&lt;font&gt;ELK日志支持&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="yd2SGkA0InAKMeZgdyea-7" value="&lt;font&gt;Elasticsearch&lt;/font&gt;&lt;div&gt;&lt;font&gt;日志收集与查询&lt;/font&gt;&lt;div&gt;服务调用链跟踪&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="337" y="420" width="143" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yd2SGkA0InAKMeZgdyea-16" value="&lt;span&gt;Docker&lt;/span&gt;&lt;div&gt;&lt;span&gt;容器&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fontStyle=1" vertex="1" parent="1">
@@ -132,6 +132,12 @@
         </mxCell>
         <mxCell id="yd2SGkA0InAKMeZgdyea-52" value="持&lt;div&gt;续&lt;/div&gt;&lt;div&gt;集&lt;/div&gt;&lt;div&gt;成&lt;/div&gt;&lt;div&gt;|&lt;/div&gt;&lt;div&gt;编&lt;/div&gt;&lt;div&gt;译&lt;/div&gt;&lt;div&gt;打&lt;/div&gt;&lt;div&gt;包&lt;/div&gt;&lt;div&gt;部&lt;/div&gt;&lt;div&gt;署&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-50" y="210" width="70" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="yd2SGkA0InAKMeZgdyea-53" value="海&lt;div&gt;关&lt;/div&gt;&lt;div&gt;三&lt;/div&gt;&lt;div&gt;统&lt;/div&gt;&lt;div&gt;一&lt;/div&gt;&lt;div&gt;控&lt;/div&gt;&lt;div&gt;权&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="820" y="210" width="70" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="yd2SGkA0InAKMeZgdyea-54" value="网&lt;div&gt;络&lt;/div&gt;&lt;div&gt;策&lt;/div&gt;&lt;div&gt;略&lt;/div&gt;&lt;div&gt;安&lt;/div&gt;&lt;div&gt;全&lt;/div&gt;&lt;div&gt;保&lt;/div&gt;&lt;div&gt;护&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="820" y="420" width="70" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
